@@ -39,17 +39,8 @@ background-repeat: no-repeat;
 .half{
     width: 50%;
 }
-.sec-3{
+.section-4{
     display: flex;
-}
-.alain{
-    width:100%;
-    padding: 3%;
-    background-image: linear-gradient(rgb(243, 203, 209));
-    background-repeat: no-repeat;
-    border-radius: 4%;
-    text-align: center;
-    text-size-adjust: 11px;
 }
 .section-3{
     display: flex;
