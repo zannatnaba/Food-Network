@@ -1,17 +1,14 @@
 body{
     font-family: 'Poppins', sans-serif;
  margin: 0;
-
 }
 .sec-1{
     display: flex;
     margin-bottom: 100px;
-
 }
 .red-color{
-    color: brown;
+    color: darkred;
 }
-
 .link{
     background-color: pink;
 padding:11px 40px;
@@ -23,21 +20,19 @@ background-position-y: center;
 .half-width{
     width: 50%;
     margin: 5%;
-    
 }
-.is{
+.fw{
     background-color: darkseagreen;
     width:100%;
     padding: 3%;
-    background-image: linear-gradient(pink, white);
-    background-repeat: no-repeat;
-  
+    background-image: linear-gradient(rgb(255, 193, 165), white);
+    background-repeat: no-repeat;  
     border-radius: 4%;
     text-align: center;
     text-size-adjust: 20px;
 }
 .sec-2{
-    display: flex;
+ display: flex;
 background-image: url(images/shapes/7.png);
 background-repeat: no-repeat;
 }
@@ -48,18 +43,15 @@ background-repeat: no-repeat;
     display: flex;
 }
 .alain{
-   
     width:100%;
     padding: 3%;
     background-image: linear-gradient(rgb(243, 203, 209));
     background-repeat: no-repeat;
-  
     border-radius: 4%;
     text-align: center;
     text-size-adjust: 11px;
-    
 }
-.mm{
+.section-3{
     display: flex;
 }
 .nn{
@@ -70,25 +62,12 @@ background-repeat: no-repeat;
     padding-right: 20px;
     border-radius: 20px;
     box-shadow: 7px 7px 10px 10px rgb(212, 145, 107);
-    text-align: center;
-    
+    text-align: center;   
 }
 #zz{
     border-left: 7px solid;
     border-image: linear-gradient(rgba(241, 189, 130, 0.822), rgb(214, 114, 75));
     border-image-slice: 1;
-}
-.fw{
-
-    background-color: rgb(255, 193, 165);
-    width:100%;
-    padding: 3%;
-    background-image: linear-gradient (rgb(255, 190, 221),);
-    background-repeat: no-repeat;
-  
-    border-radius: 4%;
-    text-align: center;
- 
 }
 .sec-3{
     display: flex;
@@ -97,19 +76,6 @@ background-repeat: no-repeat;
     text-align: center;
     width: 100%;
     padding: 5%;
-    text-size-adjust: 15px;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-}
-.copy-right{
-    background-color: rgb(255, 238, 216);
-    width:100%;
-    padding: 3%;
-    background-image: linear-gradient(black);
-    background-repeat: no-repeat;
-  
-    border-radius: 4%;
-    text-align: center;
-    text-size-adjust: 70px;
-
 }
