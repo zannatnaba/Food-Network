@@ -55,7 +55,7 @@ background-repeat: no-repeat;
     box-shadow: 7px 7px 10px 10px rgb(212, 145, 107);
     text-align: center;   
 }
-#zz{
+#food{
     border-left: 7px solid;
     border-image: linear-gradient(rgba(241, 189, 130, 0.822), rgb(214, 114, 75));
     border-image-slice: 1;
